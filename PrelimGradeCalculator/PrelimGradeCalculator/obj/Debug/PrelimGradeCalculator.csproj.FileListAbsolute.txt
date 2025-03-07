@@ -1,0 +1,11 @@
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\bin\Debug\PrelimGradeCalculator.exe
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\bin\Debug\PrelimGradeCalculator.exe.config
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.csproj.AssemblyReference.cache
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.GradeCalculator.resources
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.LoginForm.resources
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.Properties.Resources.resources
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.csproj.GenerateResource.cache
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.exe
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\obj\Debug\PrelimGradeCalculator.pdb
+C:\Users\juloc\Documents\Code\Prelim Grade Calculator\PrelimGradeCalculator\PrelimGradeCalculator\bin\Debug\PrelimGradeCalculator.pdb
